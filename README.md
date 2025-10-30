@@ -51,7 +51,7 @@ Le site est configuré pour un déploiement automatique via GitHub Actions.
 1. Poussez votre code sur GitHub
 2. Allez dans **Settings** > **Pages**
 3. Source : sélectionnez **GitHub Actions**
-4. Le workflow se lancera automatiquement à chaque push sur `main`
+4. Le workflow se lancera automatiquement à chaque push sur `main`.
 
 ### Option 2 : Déploiement manuel
 
