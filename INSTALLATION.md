@@ -70,7 +70,7 @@ git push -u origin main
 1. Allez sur votre repository GitHub
 2. **Settings** > **Pages**
 3. Source : Sélectionnez **GitHub Actions**
-4. Le workflow `.github/workflows/deploy.yml` se lancera automatiquement
+4. Le workflow `.github/workflows/deploy.yml` se lancera automatiquement.
 
 ### Étape 3 : Vérifier le déploiement
 
