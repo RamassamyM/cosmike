@@ -143,11 +143,10 @@ Le site est entièrement responsive avec des breakpoints :
 
 ## 📄 License
 
-Tous droits réservés - Cosmike 2024
+Tous droits réservés - Cosmike 2025-2026
 
 ## 🤝 Contact
 
 Pour toute question concernant le site :
-- Email : contact@cosmike.com
 - LinkedIn : [Michael Ramassamy](https://linkedin.com)
-- GitHub : [cosmike](https://github.com)
+
