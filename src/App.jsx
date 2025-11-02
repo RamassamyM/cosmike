@@ -24,7 +24,7 @@ function App() {
   }, [])
 
   return (
-    <Router>
+    <Router basename="/cosmike">
       <ScrollToTop />
       <div className="min-h-screen bg-gray-50">
         <Navbar />

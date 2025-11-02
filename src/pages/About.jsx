@@ -156,7 +156,7 @@ const About = () => {
             {/* Photo placeholder */}
             <div className="order-2 md:order-1">
               <div className="aspect-square rounded-xl overflow-hidden">
-                <img src="/profile.jpg" alt="Michael Ramassamy" className="w-full h-full object-cover object-top" />
+                <img src="/cosmike/profile.jpg" alt="Michael Ramassamy" className="w-full h-full object-cover object-top" />
               </div>
             </div>
 
