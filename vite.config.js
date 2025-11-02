@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/cosmike/',
+  base: '/', // Use '/' for custom domain, '/cosmike/' for GitHub Pages subdirectory
   server: {
     port: 3000
   },
