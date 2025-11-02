@@ -40,14 +40,14 @@ const Navbar = () => {
           <Link to="/" className="flex items-center space-x-3">
             {isScrolled ? (
               <img 
-                src="/cosmike/cosmike_logo_dark_grey.png" 
+                src="/cosmike_logo_dark_grey.png" 
                 alt="Cosmike" 
                 className="h-10 w-auto object-contain transition-all duration-300"
               />
             ) : (
               <>
                 <img 
-                  src="/cosmike/Lune.avif" 
+                  src="/Lune.avif" 
                   alt="Cosmike Logo" 
                   className="w-12 h-12 object-contain"
                 />

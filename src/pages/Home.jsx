@@ -488,19 +488,19 @@ const FeaturedProjectsSection = () => {
     {
       title: 'Mercidocteur',
       description: 'Suite d\'applications santé, extension Chrome et connecteurs API modulables.',
-      image: '/cosmike/mercidocteur2.png',
+      image: '/mercidocteur2.png',
       tags: ['SaaS', 'Chrome Extension', 'API']
     },
     {
       title: 'BeLondon',
       description: 'Interface entre Guesty et Xero pour automatiser la comptabilité et la gestion des réservations.',
-      image: '/cosmike/connector.png',
+      image: '/connector.png',
       tags: ['Ruby on Rails', 'API', 'Automation']
     },
     {
       title: 'CuRakit',
       description: 'Plateforme e-commerce avec configurateur de boîtes personnalisables pour entreprises.',
-      image: '/cosmike/curakit1.png',
+      image: '/curakit1.png',
       tags: ['React', 'GraphQL', 'E-commerce']
     }
   ]
